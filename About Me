@@ -1,0 +1,32 @@
+print("Hi, I can Code in Python!")
+print("My name is Hanzala Marghoob.\nI am from Begusarai,Bihar and i have completed my Schooling from begusarai\nand\nI did B.E(I.T) from RGTU,Bhopal.")
+print(r"""
+
+          I am Fron INDIA
+                 |
+                 ^
+   |           (!!!!)           |
+  (!)    |    (!!!!!!)    |    (!)
+  | |   ( )   !!!!!!!!   ( )   | |
+  | |   | |  !!!!!!!!!!  | |   | |
+  | |   | |''!!''''''!!''| |   | |
+  | |   | |  !!      !!  | |   | |
+  | |   | |  !!      !!  | |   | |
+::::::::::::::::::::::::::::::::::::
+             /       /\n
+             \       \\\n
+             /       /\n
+             \       \\
+            THE TAJ MAHAL
+""")
+print("My favourite animal is Cat")
+print(r"""
+   ,/\..../\ 
+  (  0     0 )/''''''''''\  //:::\
+   (   oo   ):            \//
+      '''''   \\   //\\   //\\
+              //   \\/    \/\
+    
+ """)
+my_age=int(input("Enter Current Year: "))
+print(f"In the year {my_age}, I am of {my_age-1993} years old!")
